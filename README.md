@@ -1,1 +1,2 @@
-# Decomposi-o-react-native
+# Decomposição react native
+Lista de compras.
